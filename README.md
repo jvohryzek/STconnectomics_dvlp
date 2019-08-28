@@ -1,2 +1,2 @@
 # STconnectomics_dvlp
-Spatio-temporal connectée application to development
+Spatio-temporal connectomics application to development
