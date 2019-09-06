@@ -21,7 +21,7 @@ age_filename = "STconnectome_dvlp_scripts/INPUT/Age_subject_age.txt"
 age_name_filename = "STconnectome_dvlp_scripts/INPUT/Age_subject_names.txt"
 
 ''' Ib. INPUT and OUTPUT directories'''
-output_dir_feature_matrix = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix_TH_2_04"
+output_dir_feature_matrix = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix"
 output_dir_feature_matrix_filtered = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix_filtered"
 output_dir_cc_filtered = "STconnectome_dvlp_scripts/OUTPUT/cc_filtered"
 
