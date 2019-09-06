@@ -16,15 +16,14 @@ SC_filename = "STconnectome_dvlp_scripts/INPUT/SCgroup50_cortical.txt"
 LABEL_filename = "STconnectome_dvlp_scripts/INPUT/brain_labels_448.txt"
 cortical_indexes_file = "STconnectome_dvlp_scripts/INPUT/index_CORTICAL_Laus2008_scale4.mat"
 list_filename = "STconnectome_dvlp_scripts/INPUT/subjects_list.txt"
-nof_filename = "STconnectome_dvlp_scripts/INPUT/nof_recurrence_matrix_th50.mat"
 yeo_filename = "STconnectome_dvlp_scripts/INPUT/Lausanne2008_Yeo7RSN_scale4"
 age_filename = "STconnectome_dvlp_scripts/INPUT/Age_subject_age.txt"
 age_name_filename = "STconnectome_dvlp_scripts/INPUT/Age_subject_names.txt"
 
 ''' Ib. INPUT and OUTPUT directories'''
 output_dir_feature_matrix = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix_TH_2_04"
-output_dir_feature_matrix_filtered = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix_filtered_TH_2_04"
-output_dir_cc_filtered = "STconnectome_dvlp_scripts/OUTPUT/cc_filtered_TH_2_04"
+output_dir_feature_matrix_filtered = "STconnectome_dvlp_scripts/OUTPUT/feature_matrix_filtered"
+output_dir_cc_filtered = "STconnectome_dvlp_scripts/OUTPUT/cc_filtered"
 
 ''' II. Indices of cortical regions'''
 # excluding subcortical regions
